@@ -1,0 +1,39 @@
+Dataset Statistics
+=================
+
+Total number of plants: 155
+
+Categorical Variables Summary:
+
+Cycle Distribution:
+cycle
+Perennial               79
+Herbaceous Perennial    74
+Annual                   2
+
+Watering Distribution:
+watering
+Average     121
+Frequent     21
+Minimum      13
+
+Maintenance Distribution:
+maintenance
+Moderate    72
+Low         71
+High        11
+
+Growth_Rate Distribution:
+growth_rate
+Low         105
+High         44
+Moderate      4
+Slow          1
+
+Care_Level Distribution:
+care_level
+Medium      83
+Moderate    21
+High         7
+Low          3
+Easy         3
